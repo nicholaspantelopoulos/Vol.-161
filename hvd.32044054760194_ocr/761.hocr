@@ -1,0 +1,30 @@
+  <div class='ocr_page' id='page_1' title='image "/cluster/home/n/w/nwhite01/storage/ocr_20150623/161/hvd.32044054760194/761.png"; bbox 0 0 3986 6048; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1714 2353 2276 2442">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1714 2353 2276 2442">
+     <span class='ocr_line' id='line_1_1' title="bbox 1714 2353 2276 2442; baseline 0.002 -2"><span class='ocrx_word' id='word_1_1' title='bbox 1714 2355 1890 2441; x_wconf 74' lang='grc' dir='ltr'>ῘΗΪΞ</span> <span class='ocrx_word' id='word_1_2' title='bbox 1945 2353 2276 2442; x_wconf 63' lang='lat' dir='ltr'>‘JSLUME</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1543 2487 2454 2578">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1543 2487 2454 2578">
+     <span class='ocr_line' id='line_1_2' title="bbox 1543 2487 2454 2578; baseline 0.007 -6"><span class='ocrx_word' id='word_1_3' title='bbox 1543 2489 1744 2575; x_wconf 63' lang='lat' dir='ltr'>DC’ES</span> <span class='ocrx_word' id='word_1_4' title='bbox 1805 2492 1956 2576; x_wconf 59' lang='grc' dir='ltr'>ῨιὲΪὲῘ</span> <span class='ocrx_word' id='word_1_5' title='bbox 2014 2487 2454 2578; x_wconf 57' lang='grc' dir='ltr'>(ῘΞᾹΞΟῌΙΜἘ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1535 2622 2465 2713">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1535 2622 2465 2713">
+     <span class='ocr_line' id='line_1_3' title="bbox 1535 2622 2465 2713; baseline 0.01 -8"><span class='ocrx_word' id='word_1_6' title='bbox 1535 2622 1872 2708; x_wconf 64' lang='lat' dir='ltr'>OUT</span> <span class='ocrx_word' id='word_1_7' title='bbox 1926 2625 1986 2709; x_wconf 70' lang='lat' dir='ltr'>Ti</span> <span class='ocrx_word' id='word_1_8' title='bbox 2131 2625 2465 2713; x_wconf 53' lang='grc' dir='ltr'>[ῗῖἒξίζῆῖῗῖί</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 3911 4459 3914 5110">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 3911 4541 3913 5110">
+     <span class='ocr_line' id='line_1_4' title="bbox 3911 4541 3913 4688; baseline 0 -144"><span class='ocrx_word' id='word_1_9' title='bbox 3911 4559 3913 4688; x_wconf 36' lang='grc' dir='ltr'>ι</span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 3911 4693 3913 4802; baseline 0 -94"><span class='ocrx_word' id='word_1_10' title='bbox 3911 4729 3913 4802; x_wconf 20' lang='grc' dir='ltr'>ᾧ</span> 
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 3911 4959 3913 5110; baseline 0 0"><span class='ocrx_word' id='word_1_11' title='bbox 3911 4959 3913 5110; x_wconf 51' lang='grc' dir='ltr'><strong><em>Ν</em></strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>

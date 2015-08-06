@@ -1,0 +1,32 @@
+  <div class='ocr_page' id='page_1' title='image "/cluster/home/n/w/nwhite01/storage/ocr_20150623/161/coo.31924054870666/664.png"; bbox 0 0 4106 6412; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 3739 6164 3877 6357">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 3741 6164 3877 6249">
+     <span class='ocr_line' id='line_1_1' title="bbox 3741 6164 3877 6249; baseline -0.044 0"><span class='ocrx_word' id='word_1_1' title='bbox 3741 6164 3877 6249; x_wconf 62' lang='grc' dir='ltr'><em>ΡΗ</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 3852 6166 3890 6232">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 3852 6166 3890 6232">
+     <span class='ocr_line' id='line_1_2' title="bbox 3852 6166 3890 6232; baseline 0 0"><span class='ocrx_word' id='word_1_2' title='bbox 3852 6166 3890 6232; x_wconf 63' lang='grc' dir='ltr'>ἰ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 3907 6174 3946 6345">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 3919 6174 3927 6183">
+     <span class='ocr_line' id='line_1_3' title="bbox 3919 6174 3927 6183; baseline 0 0"><span class='ocrx_word' id='word_1_3' title='bbox 3919 6174 3927 6183; x_wconf 70' lang='grc' dir='ltr'><em>ι</em></span> 
+     </span>
+    </p>
+
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 3907 6188 3921 6212">
+     <span class='ocr_line' id='line_1_4' title="bbox 3907 6188 3921 6212; baseline 0 0"><span class='ocrx_word' id='word_1_4' title='bbox 3907 6188 3921 6212; x_wconf 73' lang='lat'><em>5&quot;</em></span> 
+     </span>
+    </p>
+
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 3908 6217 3938 6345">
+     <span class='ocr_line' id='line_1_5' title="bbox 3908 6217 3938 6240; baseline 0 0"><span class='ocrx_word' id='word_1_5' title='bbox 3908 6217 3938 6240; x_wconf 31' lang='grc' dir='ltr'><em>Π-</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 3928 6338 3937 6345; baseline 0 0"><span class='ocrx_word' id='word_1_6' title='bbox 3928 6338 3937 6345; x_wconf 85' lang='grc'><strong><em>.</em></strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
